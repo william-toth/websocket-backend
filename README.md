@@ -1,7 +1,9 @@
-# starter express app template
+# Websocket backend
 
-* node with babel
-* expressjs
-* airbnb eslint rules
+Deployed front-end URL: https://notes-with-sockets.netlify.app/
 
-Procfile set up to run on [heroku](https://devcenter.heroku.com/articles/getting-started-with-nodejs#deploy-the-app)
+front-end repo: https://github.com/william-toth/websockets-client
+
+back end heroku deploy URL: https://web-socket-backend.herokuapp.com/
+
+Note: optimization for dragging didn't work very well due the structure of my original project (update sends all fields), so still looks slightly janky on the deployed app
